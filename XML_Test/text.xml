@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users>
+    <user id="1" desc="The first">
+        <name>Tom</name>
+        <age>23</age>
+        <password>123456abc</password>
+        <data> 3 &lt; 5 &amp;&amp; 4 &gt; 3</data>
+        <data>
+            <![CDATA[
+                3<5  &&  7>3
+            ]]>
+        </data>
+    </user>
+    <people>mary people</people>
+    <user id="2">
+        <name>Mike</name>
+        <age>25</age>
+        <password>246810hhh</password>
+
+    </user>
+
+</users>
